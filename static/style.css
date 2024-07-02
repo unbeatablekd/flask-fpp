@@ -1,0 +1,34 @@
+/* Target the container element */
+.homepage-container {
+  text-align: center;
+  padding: 50px;
+}
+
+/* Style the heading */
+h3 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+/* Style the link */
+a {
+  background-color: #3498db;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Apply hover effect to the link */
+a:hover {
+  background-color: #2980b9;
+  cursor: pointer;
+}
+
+/* Style the image (optional) */
+img {
+  display: block;  /* Makes the image occupy full width */
+  margin-bottom: 20px;  /* Add space below the image */
+  width: 50%;  /* Adjust image width as desired */
+}
